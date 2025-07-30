@@ -1,0 +1,3 @@
+###
+# GET todas las ciudades de Colombia
+GET http://localhost:3000/api/cities

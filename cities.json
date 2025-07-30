@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bogotá",
+    "departamento": "Cundinamarca",
+    "poblacion": "7.743.955",
+    "descripcion": "Capital de Colombia, centro político, económico, administrativo e industrial del país."
+  },
+  {
+    "id": 2,
+    "nombre": "Medellín",
+    "departamento": "Antioquia",
+    "poblacion": "2.529.403",
+    "descripcion": "Conocida como la 'Ciudad de la Eterna Primavera', famosa por su innovación y la Feria de las Flores."
+  },
+  {
+    "id": 3,
+    "nombre": "Cali",
+    "departamento": "Valle del Cauca",
+    "poblacion": "2.227.642",
+    "descripcion": "Capital mundial de la salsa, con una vibrante vida nocturna y rica cultura afrocolombiana."
+  },
+  {
+    "id": 4,
+    "nombre": "Barranquilla",
+    "departamento": "Atlántico",
+    "poblacion": "1.274.250",
+    "descripcion": "La 'Puerta de Oro de Colombia', famosa por su Carnaval, uno de los más grandes del mundo."
+  },
+  {
+    "id": 5,
+    "nombre": "Cartagena",
+    "departamento": "Bolívar",
+    "poblacion": "914.552",
+    "descripcion": "Ciudad colonial amurallada en la costa Caribe, Patrimonio de la Humanidad por la UNESCO."
+  },
+  {
+    "id": 6,
+    "nombre": "Bucaramanga",
+    "departamento": "Santander",
+    "poblacion": "611.838",
+    "descripcion": "La 'Ciudad Bonita', conocida por sus parques, la industria de la moda y la producción de calzado."
+  },
+  {
+    "id": 7,
+    "nombre": "Manizales",
+    "departamento": "Caldas",
+    "poblacion": "434.407",
+    "descripcion": "Ubicada en el Eje Cafetero, famosa por su cultura cafetera, la Feria de Manizales y su catedral."
+  }
+]
